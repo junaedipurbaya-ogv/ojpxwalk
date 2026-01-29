@@ -5,6 +5,6 @@
     "/content/ojpxwalk/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/ojpxwalk/"
   ]
 }
